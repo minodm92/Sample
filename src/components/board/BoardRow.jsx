@@ -1,7 +1,8 @@
 import { Link } from 'react-router-dom';
 
-const BoardRow = ({item}) => {
-    const {id, title, author, date, views} = item
+const BoardRow = ({ item }) => {
+    const { id, title, author, date, views } = item;
+
     return (
         <tr>
             <td>{id}</td>

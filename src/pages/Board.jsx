@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import boardData from '../assets/api/boardData';
 import BoardRow from '../components/board/BoardRow';
 

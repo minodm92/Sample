@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import data from '../assets/api/data';
 import ProductItem from '../components/product/ProductItem';
 

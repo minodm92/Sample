@@ -19,16 +19,16 @@ const Visual = () => {
                 }}
             >
                 <SwiperSlide>
-                    <img src="./images/visual1.webp" alt="주요 상품 이미지 1" />
+                    <img src="/images/visual1.webp" alt="주요 상품 이미지 1" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="./images/visual2.webp" alt="주요 상품 이미지 2" />
+                    <img src="/images/visual2.webp" alt="주요 상품 이미지 2" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="./images/visual3.webp" alt="주요 상품 이미지 3" />
+                    <img src="/images/visual3.webp" alt="주요 상품 이미지 3" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="./images/visual4.webp" alt="주요 상품 이미지 4" />
+                    <img src="/images/visual4.webp" alt="주요 상품 이미지 4" />
                 </SwiperSlide>
             </Swiper>
         </section>
